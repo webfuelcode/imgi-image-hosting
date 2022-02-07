@@ -6,16 +6,16 @@ CF Image Hosting script clone script.
 # Server Requirements
 You will need to make sure your server meets the following requirements. Most of the web hosting providers (PHP version & others...) give the ability to change or you can ask them.
 
-PHP >= 7.2.5
-BCMath PHP Extension
-Ctype PHP Extension
-Fileinfo PHP extension
-JSON PHP Extension
-Mbstring PHP Extension
-OpenSSL PHP Extension
-PDO PHP Extension
-Tokenizer PHP Extension
-XML PHP Extension
+PHP >= 7.2.5<br>
+BCMath PHP Extension<br>
+Ctype PHP Extension<br>
+Fileinfo PHP extension<br>
+JSON PHP Extension<br>
+Mbstring PHP Extension<br>
+OpenSSL PHP Extension<br>
+PDO PHP Extension<br>
+Tokenizer PHP Extension<br>
+XML PHP Extension<br>
 
 # Installation
 Follow the below steps to get strated.
