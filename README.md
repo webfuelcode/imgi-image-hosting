@@ -20,13 +20,13 @@ XML PHP Extension<br>
 # Installation
 Follow the below steps to get strated.
 
-Unzip the source package.
-Move files from the Public folder in the root. (Means under the public_html folder)
-Put the other files in separate folder.
-When the uploading is done you have to make sure the index.php file point to the correct folder/directory.
-For database settings, you have to open .env file. Which is a hidden file. Go to FTP settings to see hidden files.
-And then enter the required details according to your host.
-Before running your site you need to seed your database. Files are already provided run it or just use the SQL file to fill the database.
+Unzip the source package.<br>
+Move files from the Public folder in the root. (Means under the public_html folder)<br>
+Put the other files in separate folder.<br>
+When the uploading is done you have to make sure the index.php file point to the correct folder/directory.<br>
+For database settings, you have to open .env file. Which is a hidden file. Go to FTP settings to see hidden files.<br>
+And then enter the required details according to your host.<br>
+Before running your site you need to seed your database. Files are already provided run it or just use the SQL file to fill the database.<br>
 
 1. CreateAdminUserSeeder, 2. QuestionSeeder, 3. SiteSeeder, 4. TermSeeder
 
